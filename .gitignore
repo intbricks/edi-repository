@@ -1,3 +1,6 @@
+*.idea
+credentials
+Makefile
 # Compiled class file
 *.class
 
