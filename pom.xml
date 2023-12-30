@@ -20,6 +20,11 @@
 
   <dependencies>
     <dependency>
+      <groupId>com.imsweb</groupId>
+      <artifactId>x12-parser</artifactId>
+      <version>1.15</version>
+    </dependency>
+    <dependency>
       <groupId>com.walmartlabs.x12</groupId>
       <artifactId>gozer</artifactId>
       <version>0.3.6-SNAPSHOT</version>
